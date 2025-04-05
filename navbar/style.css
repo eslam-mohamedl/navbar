@@ -106,18 +106,13 @@ ul li{
         left: 0;
     }
 }
-/* h2 {
+h1{
     color: white;
-}
-body{
-width: 100%;
 }
 button{
-    height: 40px;
     width: 200px;
-    background-color: blueviolet;
-    padding: 10px 20px;
-    border:none;
+    height: 40px;
+    border: none;
     color: white;
-
-} */
+    background-color: blueviolet;
+}
